@@ -3,8 +3,11 @@
 # Status do projeto: ✔️ Concluido
 # Tópicos:
 🔹 descrição do projeto
+
 🔹 funcionalidades
+
 🔹 linguagem usada para programar
+
 # Descrição do projeto
 O programa pode calcular a média de alunos em um ambiente com 6 salas
 # funcionalidades
